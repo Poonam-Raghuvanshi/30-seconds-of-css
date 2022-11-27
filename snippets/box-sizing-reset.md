@@ -7,7 +7,7 @@ firstSeen: 2018-02-27T18:59:09+02:00
 lastUpdated: 2020-12-30T15:37:37+02:00
 ---
 
-Resets the box-model so that `width` and `height` are not affected by `border` or `padding`.
+Resets the box-model so that `width` and `height` are not affected by `border` or `padding`..
 
 - Use `box-sizing: border-box` to include the width and height of `padding` and `border` when calculating the element's `width` and `height`.
 - Use `box-sizing: inherit` to pass down the `box-sizing` property from parent to child elements.
